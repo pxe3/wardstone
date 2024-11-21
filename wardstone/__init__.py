@@ -1,0 +1,1 @@
+from .bijection_learning import character_bijection_attack
